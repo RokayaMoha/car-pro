@@ -29,8 +29,8 @@ box-shadow :none !important;
 }
 .accordion-button::after{
   content:"";
-  background-image:url(../down-arrow.svg) !important;
-  background-color: #af8912 !important;
+  background-image:url(../images/arrow-up-circle.svg) !important;
+ 
 }
 .navbar{
   text-transform: capitalize;
